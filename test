@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "220104485537",
+    "project_id": "kube-project-380713",
+    "storage_bucket": "kube-project-380713.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220104485537:android:2e3d9522fe896c2d4c1ee0",
+        "android_client_info": {
+          "package_name": "Agrinet.Farm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "220104485537-blu6fhcvipguubhrir9iobem1jtv370o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2Tt_oAIRq2-xuG5a-7G-rm-m-k1seytE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "220104485537-blu6fhcvipguubhrir9iobem1jtv370o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
